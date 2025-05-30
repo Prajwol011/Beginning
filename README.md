@@ -1,2 +1,4 @@
 # Beginning
-This is my first official git repository. Author - Prajwol Shrestha
+This is my first official Git Repository. 
+<br>
+Author - Prajwol Shrestha
